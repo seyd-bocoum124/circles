@@ -71,14 +71,14 @@ Pour lancer le jeu, éxécuter l'éxécutable `circles` produit après l'éxécu
 Liste des tâches effectuée:
 
 * [X] Gestion du menu (Khadim)
-* [X] Affichage de la scène (Mouhamed)
+* [X] Affichage de la scène (Seydina)
 * [X] Affichage du chronomètre (Khadim)
 * [X] Animation des murs (Khadim)
-* [X] Animation du joueur (Mouhamed)
-* [X] Détection des collisions (Mouhamed)
+* [X] Animation du joueur (Seydina)
+* [X] Détection des collisions (Seydina)
 * [X] Affichage d'une partie terminée (Khadim)
-* [X] Gestion de la musique principale (Mouhamed)
-* [X] Gestion des sons lorsqu'on navigue dans le menu (Mouhamed)
+* [X] Gestion de la musique principale (Seydina)
+* [X] Gestion des sons lorsqu'on navigue dans le menu (Seydina)
 * [X] Gestion de la musique de fin de partie (Khadim)
 
 ## État du projet
